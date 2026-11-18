@@ -452,6 +452,6 @@ For actual data protection, use battle-tested cryptographic libraries:
 
 ---
 
-**Author:** Mohammed Ali El Khaddar
+**Author:** Mohammed Ali El Khaddar  
 **Date:** 2026  
 **Status:** Production-Ready (Educational Use)
