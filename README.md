@@ -452,6 +452,6 @@ For actual data protection, use battle-tested cryptographic libraries:
 
 ---
 
-**Author:** Cybersecurity Engineering Team  
-**Date:** 2024  
+**Author:** Mohammed Ali El Khaddar
+**Date:** 2026  
 **Status:** Production-Ready (Educational Use)
